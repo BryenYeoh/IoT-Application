@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Driver State Detection</title>
+    <style>
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+      img {
+        transform: rotate(0deg);
+        max-width: 25%;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="{{ url_for('video_feed') }}" style="max-width: 25%" />
+  </body>
+</html>

@@ -1,0 +1,8 @@
+
+flask-app/.DS_Store
+.DS_Store
+flask-app/localhost.pem
+flask-app/localhost-key.pem
+flask-app/myenv
+my-app/localhost-key.pem
+my-app/localhost.pem
